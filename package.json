@@ -1,0 +1,21 @@
+{
+  "name": "travclan-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/data-grid": "^4.0.0-alpha.29",
+    "lodash.keyby": "^4.6.0",
+    "next": "10.2.2",
+    "path": "^0.12.7",
+    "prop-types": "^15.7.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "superagent": "^6.1.0"
+  }
+}
